@@ -7,8 +7,11 @@
 
 ## 🎯 Propósito
 
+O objetivo é desenvolver em Python técnicas de ordenação conhecidas. 
 
 ## 🧠 Experiência/Motivação
-
+É divertido e curiosamente desafiador. Acredito que as habilidades e competências desenvolvidas com atividades desse tipo, permitem enxergar soluções para situações do próprio dia-a-dia.
 
 ## ✍ Como começar
+
+Basta executar o arquivo ```main.py```! 😆
